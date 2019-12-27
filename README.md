@@ -23,6 +23,9 @@ To login using initial admin user type in following in popup login box:
 1. username: ``1-godaddy``
 2. password: ``pass``
 
+Database console can be accessed via link:
+``http://localhost:8080/h2-console``
+
 ### Features
 
 1. Brand concept: each brand has it's own set of users and products; 
