@@ -17,7 +17,7 @@
     <properties>
         <java.version>13</java.version>
         <cucumber.version>4.7.0</cucumber.version>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <jetbrains-annotations.version>16.0.1</jetbrains-annotations.version>
     </properties>
 
